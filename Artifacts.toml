@@ -1,143 +1,143 @@
 [[ZipFlow]]
 arch = "aarch64"
-git-tree-sha1 = "89b8456e497a49161ed30038c61f3cfdf89430ab"
+git-tree-sha1 = "c7e2718b6bad4e83185046a3d6f3399a0a84f8ea"
 os = "macos"
 
     [[ZipFlow.download]]
-    sha256 = "f11b3a9da40fac56f59e211ef457eed5e355c89165bcc50a98e3ce12e4fc2dc9"
-    url = "https://github.com/JuliaBinaryWrappers/ZipFlow_jll.jl/releases/download/ZipFlow-v1.0.0+0/ZipFlow.v1.0.0.aarch64-apple-darwin.tar.gz"
+    sha256 = "63c6e3a26c45f5932726ad19b0c986bc7a239b2af6cb787690b39044d55cee96"
+    url = "https://github.com/JuliaBinaryWrappers/ZipFlow_jll.jl/releases/download/ZipFlow-v1.1.0+0/ZipFlow.v1.1.0.aarch64-apple-darwin.tar.gz"
 [[ZipFlow]]
 arch = "aarch64"
-git-tree-sha1 = "d2f565f4868c94e727a1c9a4a532d94fd5118588"
+git-tree-sha1 = "727d052a3fa7dc18c013f943f4cd70a11d129b4e"
 libc = "glibc"
 os = "linux"
 
     [[ZipFlow.download]]
-    sha256 = "4f70aac7aa83d34f2946dfbbb5015f16d193f90a1a49c45f96fe65b73ec2de88"
-    url = "https://github.com/JuliaBinaryWrappers/ZipFlow_jll.jl/releases/download/ZipFlow-v1.0.0+0/ZipFlow.v1.0.0.aarch64-linux-gnu.tar.gz"
+    sha256 = "5d03a3b9be31b3bc5e4a0c81d4fb631d557f3d1e91d2962eb576c27e1219a2ea"
+    url = "https://github.com/JuliaBinaryWrappers/ZipFlow_jll.jl/releases/download/ZipFlow-v1.1.0+0/ZipFlow.v1.1.0.aarch64-linux-gnu.tar.gz"
 [[ZipFlow]]
 arch = "aarch64"
-git-tree-sha1 = "229e3323f71b8266f7c2cab9ab01b1af0642c776"
+git-tree-sha1 = "c86adb8aebd437aa2c14ba73c51eab149a15f2cb"
 libc = "musl"
 os = "linux"
 
     [[ZipFlow.download]]
-    sha256 = "6c9c9c203cb1d680063d3e386b6a2a722a683b312741fc58a8e03adc2eb274b6"
-    url = "https://github.com/JuliaBinaryWrappers/ZipFlow_jll.jl/releases/download/ZipFlow-v1.0.0+0/ZipFlow.v1.0.0.aarch64-linux-musl.tar.gz"
+    sha256 = "9ddc1cb2a2f028c0cfc6ff305cfb048a21fc6875c3c2b2589cb8be06d4fdaa85"
+    url = "https://github.com/JuliaBinaryWrappers/ZipFlow_jll.jl/releases/download/ZipFlow-v1.1.0+0/ZipFlow.v1.1.0.aarch64-linux-musl.tar.gz"
 [[ZipFlow]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "54ae3089efdffac3072da19f88eec092ea67891f"
+git-tree-sha1 = "3a248052889337c7d22d177b1ba512725229d321"
 libc = "glibc"
 os = "linux"
 
     [[ZipFlow.download]]
-    sha256 = "78943e4c7b5b797b914cade4afb1c31c389ad4f24e56b39f94e0b858fd9ab8ba"
-    url = "https://github.com/JuliaBinaryWrappers/ZipFlow_jll.jl/releases/download/ZipFlow-v1.0.0+0/ZipFlow.v1.0.0.armv6l-linux-gnueabihf.tar.gz"
+    sha256 = "f1b8b6859362c8332198b40f1a37f0a3b16e9a9eb3ff38186e24dbb229b36b4a"
+    url = "https://github.com/JuliaBinaryWrappers/ZipFlow_jll.jl/releases/download/ZipFlow-v1.1.0+0/ZipFlow.v1.1.0.armv6l-linux-gnueabihf.tar.gz"
 [[ZipFlow]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "f26d15678fe7df13a1cb52ff35144aad742b39c2"
+git-tree-sha1 = "213573646c5e4f47c78e6e476fa2461ed4d97aa8"
 libc = "musl"
 os = "linux"
 
     [[ZipFlow.download]]
-    sha256 = "c35600c64ef57f8e91a6a973bf78bfa9f5dd18b72613193b1bcff5cb18ad8a23"
-    url = "https://github.com/JuliaBinaryWrappers/ZipFlow_jll.jl/releases/download/ZipFlow-v1.0.0+0/ZipFlow.v1.0.0.armv6l-linux-musleabihf.tar.gz"
+    sha256 = "3c620d3ba731effefafe5e768190aac3e91449b790803fd118f69114232c170c"
+    url = "https://github.com/JuliaBinaryWrappers/ZipFlow_jll.jl/releases/download/ZipFlow-v1.1.0+0/ZipFlow.v1.1.0.armv6l-linux-musleabihf.tar.gz"
 [[ZipFlow]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "711a8b0448818b760b3dba4801bdd9f233d51cf6"
+git-tree-sha1 = "596e969fd2883b360364b64409266f4607163445"
 libc = "glibc"
 os = "linux"
 
     [[ZipFlow.download]]
-    sha256 = "f23516088d26da68e28332af5263218b5da94f158001091ff9d0c4be203aedab"
-    url = "https://github.com/JuliaBinaryWrappers/ZipFlow_jll.jl/releases/download/ZipFlow-v1.0.0+0/ZipFlow.v1.0.0.armv7l-linux-gnueabihf.tar.gz"
+    sha256 = "7c7ae515dce9e8903e842f5cf3809a62626c1f3923325511e3027b5ad2222067"
+    url = "https://github.com/JuliaBinaryWrappers/ZipFlow_jll.jl/releases/download/ZipFlow-v1.1.0+0/ZipFlow.v1.1.0.armv7l-linux-gnueabihf.tar.gz"
 [[ZipFlow]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "be378f9a7f41971a24e407cacde2baa7fb50b906"
+git-tree-sha1 = "94e2b55d9ce3795e03d5d90929016eecb27c954e"
 libc = "musl"
 os = "linux"
 
     [[ZipFlow.download]]
-    sha256 = "fe4ede1ef62584aea25811eaea18023eee514ebfe23e4385c98b7f7f81c0c9e5"
-    url = "https://github.com/JuliaBinaryWrappers/ZipFlow_jll.jl/releases/download/ZipFlow-v1.0.0+0/ZipFlow.v1.0.0.armv7l-linux-musleabihf.tar.gz"
+    sha256 = "496820a263d625ffd2b8b34903bf3b8af0da5c9756a4cc35ec1a4d3e139c0067"
+    url = "https://github.com/JuliaBinaryWrappers/ZipFlow_jll.jl/releases/download/ZipFlow-v1.1.0+0/ZipFlow.v1.1.0.armv7l-linux-musleabihf.tar.gz"
 [[ZipFlow]]
 arch = "i686"
-git-tree-sha1 = "08ea81621dc73b48d2efb8bb0c7147ea84ef9076"
+git-tree-sha1 = "c2661d1d9cfc486347f3fcd80975a1b68dee6ac1"
 libc = "glibc"
 os = "linux"
 
     [[ZipFlow.download]]
-    sha256 = "7c40989db86e3c228e3cca5bf2d5ce386d3e3df85dddca7caeb054bc07386b1b"
-    url = "https://github.com/JuliaBinaryWrappers/ZipFlow_jll.jl/releases/download/ZipFlow-v1.0.0+0/ZipFlow.v1.0.0.i686-linux-gnu.tar.gz"
+    sha256 = "b4e28cc799909431c79801ebeb95bdbdc6730da4b4d12beae3bc7c3696025e57"
+    url = "https://github.com/JuliaBinaryWrappers/ZipFlow_jll.jl/releases/download/ZipFlow-v1.1.0+0/ZipFlow.v1.1.0.i686-linux-gnu.tar.gz"
 [[ZipFlow]]
 arch = "i686"
-git-tree-sha1 = "5b3e4b78bcf7afdd2f8329b970de3228c53aeaa6"
+git-tree-sha1 = "b9f09b99493a59cbfb8376311bddfabcadbefdaf"
 libc = "musl"
 os = "linux"
 
     [[ZipFlow.download]]
-    sha256 = "b365e975c073ac4e3d5ee277c9e6f4f44c2779c2c5a11ab433fc556e1dab9445"
-    url = "https://github.com/JuliaBinaryWrappers/ZipFlow_jll.jl/releases/download/ZipFlow-v1.0.0+0/ZipFlow.v1.0.0.i686-linux-musl.tar.gz"
+    sha256 = "0b08076eeb43451340953902324f66ead2d48f60d1641344831d87444b9add43"
+    url = "https://github.com/JuliaBinaryWrappers/ZipFlow_jll.jl/releases/download/ZipFlow-v1.1.0+0/ZipFlow.v1.1.0.i686-linux-musl.tar.gz"
 [[ZipFlow]]
 arch = "i686"
-git-tree-sha1 = "a3ff567a0a747c0131ff086b7c49cc2184de92c6"
+git-tree-sha1 = "4d0d34f135e5cf1eac19f7071606da8ec64ff2cd"
 os = "windows"
 
     [[ZipFlow.download]]
-    sha256 = "9222171efc7266cdb0e3cba0b4c79636be751dc8ce8fa1d6d5e9b51168cc4a87"
-    url = "https://github.com/JuliaBinaryWrappers/ZipFlow_jll.jl/releases/download/ZipFlow-v1.0.0+0/ZipFlow.v1.0.0.i686-w64-mingw32.tar.gz"
+    sha256 = "4c01aee7c423671c113b6c735731d463ddd2822bb914a4c82ff5973f8ac2614b"
+    url = "https://github.com/JuliaBinaryWrappers/ZipFlow_jll.jl/releases/download/ZipFlow-v1.1.0+0/ZipFlow.v1.1.0.i686-w64-mingw32.tar.gz"
 [[ZipFlow]]
 arch = "powerpc64le"
-git-tree-sha1 = "e1c67693ca2313a83fc1d16b0997679678fbd725"
+git-tree-sha1 = "f72bc97bd9aa63bacc8ede3b194f7efb85923c5d"
 libc = "glibc"
 os = "linux"
 
     [[ZipFlow.download]]
-    sha256 = "6bf1fcff4cb42b8bf9d6f966702cfec4746ac6ac2791a667e2951cc06718a7ef"
-    url = "https://github.com/JuliaBinaryWrappers/ZipFlow_jll.jl/releases/download/ZipFlow-v1.0.0+0/ZipFlow.v1.0.0.powerpc64le-linux-gnu.tar.gz"
+    sha256 = "fc66aae612b507ef5f2afb0ac33e80f931a9a734a47e424f6df68b7e9cd882e1"
+    url = "https://github.com/JuliaBinaryWrappers/ZipFlow_jll.jl/releases/download/ZipFlow-v1.1.0+0/ZipFlow.v1.1.0.powerpc64le-linux-gnu.tar.gz"
 [[ZipFlow]]
 arch = "x86_64"
-git-tree-sha1 = "0ede7e3d22cfdf586964d202e2ae043556e62e35"
+git-tree-sha1 = "7ef75713e2616481275ecfa881b4ee78a2b71b89"
 os = "macos"
 
     [[ZipFlow.download]]
-    sha256 = "045b6af5d7702b9efd3f61c7f33dbf06f5276203b37eae84d9b4aa002a692bbc"
-    url = "https://github.com/JuliaBinaryWrappers/ZipFlow_jll.jl/releases/download/ZipFlow-v1.0.0+0/ZipFlow.v1.0.0.x86_64-apple-darwin.tar.gz"
+    sha256 = "58eeb882f104b59a53f073ca558c5e87d3a0caf54e1af5fe482c7300ef5dad4c"
+    url = "https://github.com/JuliaBinaryWrappers/ZipFlow_jll.jl/releases/download/ZipFlow-v1.1.0+0/ZipFlow.v1.1.0.x86_64-apple-darwin.tar.gz"
 [[ZipFlow]]
 arch = "x86_64"
-git-tree-sha1 = "662f59326a5c8a27dbf010a5ddb98d2f025fcbb0"
+git-tree-sha1 = "a032ecc11358952cdfdc566f0ad0ed87d5cdbe3a"
 libc = "glibc"
 os = "linux"
 
     [[ZipFlow.download]]
-    sha256 = "7ba2136a36d4e000d0ce66df383e9b17c881021181eadfd874e87a1cde67713c"
-    url = "https://github.com/JuliaBinaryWrappers/ZipFlow_jll.jl/releases/download/ZipFlow-v1.0.0+0/ZipFlow.v1.0.0.x86_64-linux-gnu.tar.gz"
+    sha256 = "2643dd68bde888283353e76606fad04439aeb766fb63dfd7462a2285e3f448fb"
+    url = "https://github.com/JuliaBinaryWrappers/ZipFlow_jll.jl/releases/download/ZipFlow-v1.1.0+0/ZipFlow.v1.1.0.x86_64-linux-gnu.tar.gz"
 [[ZipFlow]]
 arch = "x86_64"
-git-tree-sha1 = "0794a16da1dffec2b35bf9f03d6f538e49fe9ee7"
+git-tree-sha1 = "ebb18729fbbee5734c0f584a8c4e870bfade1dd1"
 libc = "musl"
 os = "linux"
 
     [[ZipFlow.download]]
-    sha256 = "cb9f012554303e1ede25811e5d15481ebe9edc05d863efa20ba0792238d9e3c9"
-    url = "https://github.com/JuliaBinaryWrappers/ZipFlow_jll.jl/releases/download/ZipFlow-v1.0.0+0/ZipFlow.v1.0.0.x86_64-linux-musl.tar.gz"
+    sha256 = "f32fe6e060d02617e45c91c199ed536af39f1a7de09d2c6f3b9dc76e7e5293b7"
+    url = "https://github.com/JuliaBinaryWrappers/ZipFlow_jll.jl/releases/download/ZipFlow-v1.1.0+0/ZipFlow.v1.1.0.x86_64-linux-musl.tar.gz"
 [[ZipFlow]]
 arch = "x86_64"
-git-tree-sha1 = "e14120c07425c4d27a55b8273db64bf3cbea213e"
+git-tree-sha1 = "13c183273ccf3dd71c07b9f22d60e266724b4d98"
 os = "freebsd"
 
     [[ZipFlow.download]]
-    sha256 = "0747a74e17da19c3af4efa4c9508c6c990aa8ab41098089e5cd33945b3a8f149"
-    url = "https://github.com/JuliaBinaryWrappers/ZipFlow_jll.jl/releases/download/ZipFlow-v1.0.0+0/ZipFlow.v1.0.0.x86_64-unknown-freebsd.tar.gz"
+    sha256 = "eed64c74a23a05adca6fd349e11bc8845a9bdd6d680e4a6a9855bd407ac219f5"
+    url = "https://github.com/JuliaBinaryWrappers/ZipFlow_jll.jl/releases/download/ZipFlow-v1.1.0+0/ZipFlow.v1.1.0.x86_64-unknown-freebsd.tar.gz"
 [[ZipFlow]]
 arch = "x86_64"
-git-tree-sha1 = "a1b7d00c5c099bf815caa55f3b218ba067292dde"
+git-tree-sha1 = "f0334d8fad0715769d866a198df4216b466480a0"
 os = "windows"
 
     [[ZipFlow.download]]
-    sha256 = "4063f06922fcb22c02cb558e147cdf989f7d13291f5fbe13f94585d42c376c89"
-    url = "https://github.com/JuliaBinaryWrappers/ZipFlow_jll.jl/releases/download/ZipFlow-v1.0.0+0/ZipFlow.v1.0.0.x86_64-w64-mingw32.tar.gz"
+    sha256 = "59bb595d56544682dadcae904cecebaf1219e3a5ca26d48f2d49aae73fec8819"
+    url = "https://github.com/JuliaBinaryWrappers/ZipFlow_jll.jl/releases/download/ZipFlow-v1.1.0+0/ZipFlow.v1.1.0.x86_64-w64-mingw32.tar.gz"

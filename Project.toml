@@ -1,6 +1,6 @@
 name = "ZipFlow_jll"
 uuid = "3f4651c6-dca0-5abf-a9ca-128c6c1e6eb6"
-version = "1.0.0+0"
+version = "1.1.0+0"
 
 [deps]
 JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
